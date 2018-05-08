@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teste Retrofit</string>
+    <string name="btnBuscar">Buscar Usuario</string>
+    <string name="btnExibir">Exibir Usuarios</string>
+</resources>
